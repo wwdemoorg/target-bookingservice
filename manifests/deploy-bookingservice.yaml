@@ -19,7 +19,7 @@ spec:
         - name: MONGO_HOST
           value: booking-db
         - name: TRACK_REWARD_MILES
-          value: 'true'
+          value: 'false'
         - name: SECURE_SERVICE_CALLS
           value: 'true'
 ---
